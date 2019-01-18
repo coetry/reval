@@ -3,8 +3,7 @@
 the inspiration for this came 
 from none other than the brilliant [Guillermo Rauch](https://twitter.com/rauchg/status/1085813324992806913)
 
-just send a POST request with an object with
-an expression key:
+just send a POST request with an object that has an expression key:
 
 ```js
 { expression: 2 + 1 }
