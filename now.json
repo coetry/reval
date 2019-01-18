@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "public": true,
+  "name": "reval",
+  "alias": ["reval.now.sh"],
+  "builds": [{ "src": "index.js", "use": "@now/node" }]
+}
